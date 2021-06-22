@@ -14,3 +14,19 @@ C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\c
 C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\obj\Debug\net5.0\ref\communication-log.dll
 C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.pdb
 C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.genruntimeconfig.cache
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.exe
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.deps.json
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.runtimeconfig.json
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.runtimeconfig.dev.json
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.dll
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\bin\Debug\net5.0\ref\communication-log.dll
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.pdb
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.csproj.AssemblyReference.cache
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.AssemblyInfoInputs.cache
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.AssemblyInfo.cs
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.csproj.CoreCompileInputs.cache
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.dll
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\obj\Debug\net5.0\ref\communication-log.dll
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.pdb
+C:\Users\Shea Cooke\Desktop\LaunchCode\C#\Chapter 15 studio\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.genruntimeconfig.cache
