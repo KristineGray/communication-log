@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shea Cooke\\Desktop\\LaunchCode\\C#\\Chapter 15 studio\\communication-log\\communication-log\\communication-log\\communication-log.csproj": {}
+    "C:\\Users\\Kris\\source\\repos\\LaunchCode\\Ch15\\communication-log\\communication-log\\communication-log\\communication-log.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shea Cooke\\Desktop\\LaunchCode\\C#\\Chapter 15 studio\\communication-log\\communication-log\\communication-log\\communication-log.csproj": {
+    "C:\\Users\\Kris\\source\\repos\\LaunchCode\\Ch15\\communication-log\\communication-log\\communication-log\\communication-log.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shea Cooke\\Desktop\\LaunchCode\\C#\\Chapter 15 studio\\communication-log\\communication-log\\communication-log\\communication-log.csproj",
+        "projectUniqueName": "C:\\Users\\Kris\\source\\repos\\LaunchCode\\Ch15\\communication-log\\communication-log\\communication-log\\communication-log.csproj",
         "projectName": "communication-log",
-        "projectPath": "C:\\Users\\Shea Cooke\\Desktop\\LaunchCode\\C#\\Chapter 15 studio\\communication-log\\communication-log\\communication-log\\communication-log.csproj",
-        "packagesPath": "C:\\Users\\Shea Cooke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shea Cooke\\Desktop\\LaunchCode\\C#\\Chapter 15 studio\\communication-log\\communication-log\\communication-log\\obj\\",
+        "projectPath": "C:\\Users\\Kris\\source\\repos\\LaunchCode\\Ch15\\communication-log\\communication-log\\communication-log\\communication-log.csproj",
+        "packagesPath": "C:\\Users\\Kris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kris\\source\\repos\\LaunchCode\\Ch15\\communication-log\\communication-log\\communication-log\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Shea Cooke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
