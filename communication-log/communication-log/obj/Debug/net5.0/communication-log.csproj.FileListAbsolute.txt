@@ -1,0 +1,16 @@
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.exe
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.deps.json
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.runtimeconfig.json
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.runtimeconfig.dev.json
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.dll
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\bin\Debug\net5.0\ref\communication-log.dll
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\bin\Debug\net5.0\communication-log.pdb
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.csproj.AssemblyReference.cache
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.AssemblyInfoInputs.cache
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.AssemblyInfo.cs
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.csproj.CoreCompileInputs.cache
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.dll
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\obj\Debug\net5.0\ref\communication-log.dll
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.pdb
+C:\Users\Kris\source\repos\LaunchCode\Ch15\communication-log\communication-log\communication-log\obj\Debug\net5.0\communication-log.genruntimeconfig.cache
